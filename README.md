@@ -9,3 +9,9 @@ and some fun 🫠
   
 
 I'm learning Python at the moment :3
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" />
+          
+
